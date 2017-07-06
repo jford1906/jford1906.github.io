@@ -1,6 +1,6 @@
 # Site settings
 title: Jeff Ford's Teaching and Research
-short-title: Prof. Clontz
+short-title: jford.org
 header-img: "/assets/img/Gustavus-Adolphus-2.jpg"
 email: jford@gustavus.edu
 description: "Visiting instructor in the Mathematics, Computer Science, and Statistics department at Gustavus Adolphus College"
@@ -14,8 +14,8 @@ navbar-links:
     url:   /about/
   - title: Classes
     url:   /classes/
-  - title: Resources
-    url:   /resources/
+  - title: Research
+    url:   /research/
 
 # Build settings
 markdown: kramdown
