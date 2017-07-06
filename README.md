@@ -1,4 +1,3 @@
-# prof.clontz.org
+# jford.org
 
-The official website for Prof. [Steven Clontz](http://clontz.org)'s classes
-at the University of South Alabama.
+Jeff Ford's Teaching and Reserach Website
