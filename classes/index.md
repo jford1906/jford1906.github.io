@@ -4,16 +4,9 @@ title: "Classes"
 description: "Information on my courses"
 ---
 
-## 2017 Summer
+## 2017 Fall
 
-- [MA 126 - Calculus II](/classes/2017/06/ma126/)
-- [MA 227 - Calculus III](/classes/2017/06/ma227/)
+- [MCS 121 - Calculus I](/classes/2017/Fa/121/)
+- [MCS 221 - Linear Algebra](/classes/2017/Fa/221/)
 
-## 2017 Spring
 
-- [MA 110 - Finite Mathematics](/classes/2017/01/ma110/)
-- [MA 126 - Calculus II](/classes/2017/01/ma126/)
-
-## 2016 Fall
-
-- [MA 126 - Calculus II](https://stevenclontz.github.io/teaching-2016-08-17-fall/)
