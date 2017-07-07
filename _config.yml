@@ -5,10 +5,11 @@ header-img: "/assets/img/Gustavus-Adolphus-2.jpg"
 email: jford@gustavus.edu
 description: "Visiting instructor in the Mathematics, Computer Science, and Statistics department at Gustavus Adolphus College"
 baseurl: ""
-url: "http://jford.org"
+url: "https://jford.org"
 #twitter_username: StevenXClontz
 github_username:  jford1906
-facebook_username:
+booking_link: "https://jeffford.youcanbook.me"
+#facebook_username:
 navbar-links:
   - title: About
     url:   /about/
