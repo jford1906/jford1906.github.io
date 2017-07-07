@@ -8,8 +8,8 @@ I'm Jeff Ford, Visiting Instructor of
 [Mathematics][gacmcs] at the
 [Gustavus Adolphus College][gac].
 
-[usamath]: https://www.gustavus.edu/mcs/
-[usa]: https://www.gustavus.edu/
+[gacmcs]: https://www.gustavus.edu/mcs/
+[gac]: https://www.gustavus.edu/
 
 ## Contact and Calendar
 
