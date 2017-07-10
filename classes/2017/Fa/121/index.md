@@ -9,7 +9,6 @@ description: "Calculus I - 2017 Fall Semester"
 - [Lectures and Readings][text]
 - [Standards][standards]
 - [Calendar][calendar]
-- [**★** Reattempt Form](pdf/star-reattempt.pdf)
 
 ---
 
@@ -49,6 +48,7 @@ standards, with the support of the instructor.
 
 
 ## Textbook and Resources
+
 
 All material for this course is available at no cost at
 [prof.clontz.org/resources/calculus-2][text]. Students are welcome to use
@@ -108,57 +108,37 @@ throughout the semester.
 The [class calendar][calendar] outlines the
 sections of [online materials][text] that students will be
 responsible for reviewing in preparation for class each week.
+This will always include readings from the textbook, and multiple videos to watch.
 
 ### Quizzes
 
 On the first day of class each week, students will first be given an
-**Individual Readiness Quiz (IRQ)** of multiple-choice
+**Individual Readiness Assessment (IRA)** of multiple-choice
 questions to check their understanding of the online materials.
 
-Immediately following the IRQ (before solutions are revealed),
+Immediately following the IRA (before solutions are revealed),
 each Team will come together to take an
-identical **Team Readiness Quiz (TRQ)**, discussing each member's choices and
+identical **Team Readiness Assessment (TRA)**, discussing each member's choices and
 agreeing on a solution. These responses are immediately revealed as correct
 or incorrect, and the Team will keep guessing until the correct answer is
 found.
 
 ### Activities
 
-On days without an IRQ/TRQ, the instructor will assign **Activities**
+On days without an IRA/TRA, the instructor will assign **Activities**
 to be completed as a Team during the last 60 minutes of class.
-
-### Attempt Points
-
-Each week, the instructor will award **Attempt Points (AP)** to each student
-based on a qualitative assessment of that student's participation during
-the previous week. If necessary,
-the instructor will solicit survey feedback
-from the class to make that determination quantitatively instead;
-if so, participation on the survey will be required to earn that week's AP.
-
 
 
 ## Attempting Standards
 
-Students may spend their Attempt Points to individually demonstrate mastery
-of the Core and Supporting Standards.
+Students may demonstrate mastery of the Core and Supporting Standards during the bi-weekly assessment.
 
-* During the first 15 minutes of days without an IRQ/TRQ, students are given
-  a **Mastery Quiz** containing several
-  **In-Class Exercises** based on several of the most recently covered
-  Standards.
-  Each submitted In-Class Exercise costs 1AP; exercises that are not submitted
-  do not cost AP.
-* Each day during office hours, students may attempt up to two
-  **Office Exercises** based on
-  any Standard covered so far during the course. Each attempt costs 2AP
-  (whether or not it is completed successfully) plus the following:
-    * +2AP on a second daily attempt.
-    * +1AP for each week past the Standard's [deadline][standards].
+* A **Mastery Assessment** will be available at the end of each module. There will be a collection of questions covering all possible standards up to that point in the course. Student will be provided with a list of standards, and how many they have completed. Students may submit as many problems as they like during the 50 minute class period.
+
 * The **Final Exam** will contain several **Final Exercises**: two for each Core
   Standard, and one for each Supporting Standard.
   Students may submit their attempts for up to 16 different exercises.
-  These final attempts do not cost any AP, but time is limited.
+  
 
 Each exercise is marked by the instructor as follows.
 
@@ -168,42 +148,26 @@ Each exercise is marked by the instructor as follows.
 * **×**: The response does not demonstrate complete understanding of the
   Standard.
 
-Students may improve **★** marks to **✓** marks as follows.
-
-* For In-Class Exercises, the solution must be correctly reworked and
-  submitted to the instructor on the weekday following the date the marked
-  exercise is returned. (This does not cost any AP.)
-* For Office Exercises, **★** marks are not offered (the instructor will
-  request any necessary clarification or minor corrections during the attempt).
-* For Final Exercises, **★** marks are automatically converted to **✓** marks
-  at a cost of 10AP per each conversion.
-
-
-
+Students may improve **★** marks to **✓** marks by submitting the correctly reworked solution 
+to the instructor on the weekday following the date the marked exercise is returned.
 
 
 ## Student Data
 
-Student data will be stored on the instructor's office computer, and will
-be available via printed progress reports distributed during class at
-regular intervals.
+Student data will be stored on the instructor's office computer. Team folders, showing all earned team points, will be distributed during each team activity. Individual folders, showing all achieved standards,  will be distributed with each **Mastery Assessment.**
 
 
 ## Academic Honesty
 
 Any violations of academic honesty will be reported to the University
 and will result in **automatic and immediate failure of the course**. Refer to
-South's [Additional Academic Course Policies][usacoursepolicies] for
+the [Gustavus Adolphus College Honor Code][gaccoursepolicies] for
 more information.
 
 
 ## Syllabus
 
-The official syllabus for this course is hosted on [USAOnline][usaonline].
-South's
-[Additional Academic Course Policies][usacoursepolicies] also apply to this
-course.
-
+The official syllabus for this course is hosted on [Moodle][moodle.gac.edu].
 
 
 [text]: /resources/calculus2/
@@ -216,7 +180,7 @@ course.
 
 [bookings]: https://jeffford.youcanbook.me
 
-[usacoursepolicies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
+[gaccoursepolicies]: https://gustavus.edu/general_catalog/current/?pr=acainfo
 
 
 
