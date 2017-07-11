@@ -28,7 +28,7 @@ description: "Calculus I - 2017 Fall Semester"
 * Instructor Information
     * [Jeff Ford][about]
 * Final Exam
-    * To be announced, (https://gustavus.edu/registrar/finals.php.)
+    * To be announced, [https://gustavus.edu/registrar/finals.php][https://gustavus.edu/registrar/finals.php]
 
 
 ## Course Description
@@ -50,15 +50,11 @@ standards, with the support of the instructor.
 ## Textbook and Resources
 
 
-All material for this course is available at no cost at
-[prof.clontz.org/resources/calculus-2][text]. Students are welcome to use
-*University Calculus: Early Transcendentals (3rd Ed)* or any other textbook
-as a supplemental resource, but it is not required.
+The textbook **Single Variable Calculus - Early Transcendentals** by James Stewart is required for the course. It is available in the [Bookmark][https://www.bookmark.gustavus.edu/].
 
-Students may be asked to provide dry-erase markers for use during class.
+Additionally, videos and suggested problems will be posted on the [Resources page][text].
 
-It's not required, but many students benefit from bringing a smart device
-to class.
+The [calendar][calendar] lists all required readings. The readings are to be completed prior to the dates indicated.
 
 
 ## Standards
@@ -68,29 +64,6 @@ The main goal of this course is for students to **master** the
 **✓** marks for each standard throughout the semester.
 A list of these standards is available on the
 [Standards page][standards].
-
-
-
-
-## Grade Assignments
-
-Grades are assigned based on students' mastery of the Core and Supporting
-Standards. This is calculated by adding up to **2** earned **✓** marks
-for each of the sixteen Core Standards,
-and up to **1** earned **✓** mark for each of the sixteen
-Supporting Standards, for a total of **48** possible **✓** marks.
-
-* **A**:
-  * At least **46/48** **✓** marks have been earned.
-  * At least one **✓** mark has been earned for **16/16** Core Standards.
-* **B**:
-  * At least **38/48** **✓** marks have been earned.
-  * At least one **✓** mark has been earned for **14/16** Core Standards.
-* **C**:
-  * At least **30/48** **✓** marks have been earned.
-  * At least one **✓** mark has been earned for **12/16** Core Standards.
-* **D**:
-  * At least **24/48** **✓** marks have been earned.
 
 
 ## Team Formation
@@ -114,7 +87,7 @@ This will always include readings from the textbook, and multiple videos to watc
 
 On the first day of class each week, students will first be given an
 **Individual Readiness Assessment (IRA)** of multiple-choice
-questions to check their understanding of the online materials.
+questions to check their understanding of the reading and online materials.
 
 Immediately following the IRA (before solutions are revealed),
 each Team will come together to take an
@@ -129,7 +102,7 @@ On days without an IRA/TRA, the instructor will assign **Activities**
 to be completed as a Team during the last 60 minutes of class.
 
 
-## Attempting Standards
+## Completing Standards
 
 Students may demonstrate mastery of the Core and Supporting Standards during the bi-weekly assessment.
 
@@ -155,6 +128,28 @@ to the instructor on the weekday following the date the marked exercise is retur
 ## Student Data
 
 Student data will be stored on the instructor's office computer. Team folders, showing all earned team points, will be distributed during each team activity. Individual folders, showing all achieved standards,  will be distributed with each **Mastery Assessment.**
+
+
+## Grade Assignments
+
+Grades are assigned based on students' mastery of the Core and Supporting
+Standards. This is calculated by adding up to **2** earned **✓** marks
+for each of the sixteen Core Standards,
+and up to **1** earned **✓** mark for each of the sixteen
+Supporting Standards, for a total of **48** possible **✓** marks.
+
+* **A**:
+  * At least **46/48** **✓** marks have been earned.
+  * At least one **✓** mark has been earned for **16/16** Core Standards.
+* **B**:
+  * At least **38/48** **✓** marks have been earned.
+  * At least one **✓** mark has been earned for **14/16** Core Standards.
+* **C**:
+  * At least **30/48** **✓** marks have been earned.
+  * At least one **✓** mark has been earned for **12/16** Core Standards.
+* **D**:
+  * At least **24/48** **✓** marks have been earned.
+
 
 
 ## Academic Honesty
