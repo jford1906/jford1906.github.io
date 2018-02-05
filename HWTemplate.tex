@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Welcome to Overleaf --- just edit your LaTeX on the left,
+% and we'll compile it for you on the right. If you give
+% someone the link to this page, they can edit at the same
+% time. See the help menu above for more info. Enjoy!
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % --------------------------------------------------------------
 % This is all preamble stuff that you don't have to worry about.
 % Head down to where it says "Start here"
@@ -7,11 +15,9 @@
 \usepackage{amsmath, amssymb, amsthm}
 
 \theoremstyle{definition}
-% May want theorems numbered by chapter
 \newtheorem*{thm}{Theorem}
-\newtheorem*{prob}{Problem}
-\newtheorem*{ex}{Exercise}
 
+\newcommand{\C}{\mathbb{C}}
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\N}{\mathbb{N}}
 \newcommand{\Z}{\mathbb{Z}}
@@ -34,14 +40,25 @@ Collaborators: } %if necessary, include the names of everyone you worked with on
  
 \maketitle
  
-\begin{prob}\\ 
+\begin{thm} 
 Delete this text and write theorem statement here.
-\end{prob}
+\end{thm}
 \rev{2/19/18} %Add another of these whenever you submit a proof or it's revisisons. Do not delete this or any of the grades that show up below it.
+If you want to use the proof environment, it's here. It ends with a nice box to show that the proof is over.
 
+\begin{proof}
 If you just type stuff, it shows up as you'd expect. If you need special characters, underlining, overlining, italics, bold, Greek letters, of anything else, the commands are all in the Reference Sheet in Moodle.
 
 If you want some math in the middle of a line, just put it in like this $x^2$ or $x_2$. Notice though, that if you do $x_21$ it doesn't look right. Instead, try $x_{21}$.
+
+Sometimes we want the math to be bigger, so we use $$x^2$$ to center it and make it larger. Especially useful for things like $\sum_{i=1}^n i$ versus $$\sum_{i=1}^n i.$$
+
+When we put a blank line between two paragraphs, we get an automatic indent, but we don't get a blank line.
+
+If we want some small stuff on a line, and no indent on the next line, just end a line with \\
+then the next line is just below. Or you can put \\
+
+at the end of a line, then a blank line, and then you get a new line, and a blank line between.
 
 Suppose you need lots of equations lined up over several lines. Try this:
 
@@ -51,15 +68,20 @@ f(x) &= x+y\\
 &=0
 \end{align*}
 
-If you want to use the proof environment, it's here. It ends with a nice box to show that the proof is over.
 
-\begin{proof}
-Look, here's a matrix.
+Look, here's a matrix. I added a particular command for this to save you some time.
 $$A = \m{1&0&0\\0&1&0\\0&0&1}$$
 
 There's a vector too!
 
 $$\vec{v} = \m{1\\2\\3}$$
+
+The other thing is that you'll often want to talk about sets. The curly bracket is already a reserved symbol, but we can fix that by putting a backslash in front of it. We can also use the mbox command to put regular text inside of math mode.
+$$\R \{x:x \mbox{ is a real number}\}$$
+
+Finally, I put in some notation for commonly labelled sets, to save you time.
+$$\N \subseteq \Z \subseteq \R \subseteq \C$$
+
 \end{proof}
 
 % --------------------------------------------------------------
