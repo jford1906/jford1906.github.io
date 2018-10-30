@@ -8,29 +8,34 @@ description: "Publications, preprints, and research interests"
 
 
 ## Selected Conference Presentations and Invited Talks
+["Tilings and Tiling Spaces."](Tilings_talk_GAC.pdf) October 2018, Department of Mathematics, Computer Science  and Statistics Seminar, Gustavus Adolphus College.
 
-"Blending Team-based learning and Mastery grading in Calculus I." August 2018, MAA MathFest Poster Session, Denver, CO
+["Blending Team-based learning and Mastery grading in Calculus I."](Brandeis TalkFa18.pdf) September 2018, Mathematics Department Seminar, Brandeis University
 
-"A volume-preserving dynamical system on $R^3$ with all trajectories bounded." March 2017, 51st Spring Topology and Dynamical Systems Conference, New Jersey City, NJ
+["Blending Team-based learning and Mastery grading in Calculus I."](MathFestPosterFa18.pdf) August 2018, MAA MathFest Poster Session, Denver, CO
 
-"Visualizing the Wilson Plug" June 2015, 30th Summer Conference on Topology and it's Applications, Galway, Ireland
+["A non-singular measured-foliation on $\mathbb{R}^3$, with all leaves contained in bounded sets."](AUSeminar_10_2_17 (2).pdf) October 2017, Continuum Theory Seminar, Auburn University, Auburn, AL
 
-"IBL teaching methods in an advanced class on Vietoris Homology" (with F. Sturm) June 2014, Legacy of R.L. Moore Conference, Denver, CO
+["Volume-preserving dynamical systems and related foliations."](GACSeminar_2017.pdf) September 2017, Department of Mathematics, Computer Science  and Statistics Seminar, Gustavus Adolphus College, St. Peter, MN
 
-"Pre-algebra skills as a means of assessing readiness of developmental algebra students" (with L. Stepan) September 2013, MNADE Fall Conference, Walker, MN
+["Getting Started with Team-based learning."](Getting_Started_with_Team_Based_Learning.pdf) (with B. Reimann) April 2017, Celebration of Creative Inquiry, Gustavus Adolphus College, St. Peter, MN
 
-"Investigating Algebraic Procedures with Class Discussions and Student Journaling" (with J. Harper) September 2010, MNADE Fall Conference, Grand Rapids, MN
+["A volume-preserving dynamical system on $R^3$ with all trajectories bounded."](Jersey_City_Talk.pdf) March 2017, 51st Spring Topology and Dynamical Systems Conference, New Jersey City, NJ
 
-"Tilings and Tiling Spaces." October 2018, Department of Mathematics, Computer Science  and Statistics Seminar, Gustavus Adolphus College.}
+["Visualizing the Wilson Plug"](Galway2015.pdf) June 2015, 30th Summer Conference on Topology and it's Applications, Galway, Ireland
 
-["Blending Team-based learning and Mastery grading in Calculus I."](Brandeis TalkFa18.pdf target='_blank') September 2018, Mathematics Department Seminar, Brandeis University
+["IBL teaching methods in an advanced class on Vietoris Homology"](RLM2014FORD_STURM-jf_edits.pdf) (with F. Sturm) June 2014, Legacy of R.L. Moore Conference, Denver, CO
 
-"Getting Started with Team-based learning." (with B. Reimann) \hfill April 2017 \tab\parbox{\deswidth}{Celebration of Creative Inquiry, Gustavus Adolphus College, St. Peter, MN}
+["Pre-algebra skills as a means of assessing readiness of developmental algebra students"](Ford Stepan MNADE 2015.pptx) (with L. Stepan) September 2013, MNADE Fall Conference, Walker, MN
 
-"A non-singular measured-foliation on $\mathbb{R}^3$, with all leaves contained in bounded sets."\hfill October 2017
-\tab\parbox{\deswidth}{Continuum Theory Seminar, Auburn University.}
+["Investigating Algebraic Procedures with Class Discussions and Student Journaling"](Ford_Harper_MNADE10 Presentation.pptx) (with J. Harper) September 2010, MNADE Fall Conference, Grand Rapids, MN
 
-"Volume-preserving dynamical systems and related foliations."\hfill September 2017
-\tab\parbox{\deswidth}{Department of Mathematics, Computer Science  and Statistics Seminar, Gustavus Adolphus College.}
+
+
+
+
+
+
+
 
 
