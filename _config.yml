@@ -13,10 +13,8 @@ booking_link: "https://drford.youcanbook.me"
 navbar-links:
   - title: About
     url:   /about/
-  - title: Classes
+  - title: Teaching Resources
     url:   /classes/
-  - title: Resources
-    url:  /resources/
   - title: Research
     url:   /research/
 
