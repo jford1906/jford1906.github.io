@@ -4,14 +4,17 @@ title: "Research"
 description: "Publications, preprints, and research interests"
 ---
 
+## Research Interests
+I am currently interested in measure-preserving dynamical system, tiling dynamical systems, and the relationship between mathematical self-efficacy and math anxiety.
+
 ## Papers and Preprints
-"Blending Team-based Learning and Mastery Grading in the Calculus Classroom."  
+["Blending Team-based Learning and Mastery Grading in the Calculus Classroom."](MTRJ_Submission_Fall_2018.pdf)  
 Under review as of October 2018
 
-"A Volume-preserving Dynamical System on $\mathbb{R}^3$ with all Trajectories Bounded"  
+["A Volume-preserving Dynamical System on $\mathbb{R}^3$ with all Trajectories Bounded"](Smooth_Journal_Article.pdf)  
 Under review as of May 2018
 
-"A Measured $PL$ Foliation of $\mathbb{R}^3$ with all Leaves Contained in Bounded Sets." (with K. Kuperberg)  
+["A Measured $PL$ Foliation of $\mathbb{R}^3$ with all Leaves Contained in Bounded Sets."](PL_with_Kuperberg.pdf) (with K. Kuperberg)  
 Preprint
 
 ["Investigating Algebraic Procedures using Discussion and Writing"](https://www.jstor.org/stable/i40106606) (with J. Harper)  
