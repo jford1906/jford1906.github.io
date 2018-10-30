@@ -6,7 +6,7 @@ description: "Publications, preprints, and research interests"
 
 ## Papers and Preprints
 
-
+\\( \ln x=\int_1^x \frac{1}{t}\,dt \\) for all \\(x>0\\)
 
 ## Selected Conference Presentations and Invited Talks
 
