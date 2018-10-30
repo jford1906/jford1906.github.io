@@ -4,9 +4,9 @@ title: "Teaching"
 description: "Courses Taught and Teaching Resources"
 ---
 
-[Team-Based Learning](/TBL/index.md)  
-[Inquiry-Based Learning](/IBL/index.md)  
-[Standards-Based Grading](/SBG/index.md)  
+[Examples of Team-Based Learning](/TBL/index.md)  
+[Examples of Inquiry-Based Learning](/IBL/index.md)  
+[Examples of Standards-Based Grading](/SBG/index.md)  
 
 ## Courses Taught at Gustavus Adolphus College  
 MCS 353 - Continuous Dynamical Systems  
