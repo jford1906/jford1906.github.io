@@ -5,7 +5,17 @@ description: "Publications, preprints, and research interests"
 ---
 
 ## Papers and Preprints
+"Blending Team-based Learning and Mastery Grading in the Calculus Classroom."  
+Under review as of October 2018
 
+"A Volume-preserving Dynamical System on $\mathbb{R}^3$ with all Trajectories Bounded"  
+Under review as of May 2018
+
+"A Measured $PL$ Foliation of $\mathbb{R}^3$ with all Leaves Contained in Bounded Sets." (with K. Kuperberg)  
+Preprint
+
+["Investigating Algebraic Procedures using Discussion and Writing"](https://www.jstor.org/stable/i40106606) (with J. Harper)  
+Research and Teaching in Developmental Education, Vol. 28 no. 2, (April 2012) 
 
 ## Selected Conference Presentations and Invited Talks
 ["Tilings and Tiling Spaces."](Tilings_talk_GAC.pdf)  
