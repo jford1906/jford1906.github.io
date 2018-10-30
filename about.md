@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-I'm Jeff Ford, Visiting Instructor of 
+I'm Jeff Ford, Visiting Assistant Professor of 
 [Mathematics][gacmcs] at the
 [Gustavus Adolphus College][gac].
 
@@ -24,5 +24,5 @@ Gustavus Adolphus College
 800 W College Ave  
 St Peter, MN 56082
 
-If you're planning to visit, the best way is to make an appointment using <https://jeffford.youcanbook.me>.
+If you're planning to visit, the best way is to make an appointment using <https://drford.youcanbook.me>.
 
