@@ -4,8 +4,9 @@ title: "Teaching"
 description: "Courses Taught and Teaching Resources"
 ---
 
-## Examples of Course Materials
-### Calculus I, taught with Team-based learning and Standards-based grading
+I primarily use Team-Based Learning (TBL), Inquiry-Based Learning (IBL), and Standards-Based Grading (SBG) in my courses.  
+
+[Examples of Course Materials](Examples/index.md)
 
 [List of courses taught](PreviousCourses/index.md)
 
