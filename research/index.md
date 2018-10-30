@@ -21,3 +21,17 @@ description: "Publications, preprints, and research interests"
 
 "Investigating Algebraic Procedures with Class Discussions and Student Journaling" September 2010, MNADE Fall Conference, Grand Rapids, MN
 
+"Tilings and Tiling Spaces." October 2018, Department of Mathematics, Computer Science  and Statistics Seminar, Gustavus Adolphus College.}
+
+"Blending Team-based learning and Mastery grading in Calculus I."\hfill September 2018
+\tab\parbox{\deswidth}{Mathematics Department Seminar, Brandeis University}
+
+"A non-singular measured-foliation on $\mathbb{R}^3$, with all leaves contained in bounded sets."\hfill October 2017
+\tab\parbox{\deswidth}{Continuum Theory Seminar, Auburn University.}
+
+"Volume-preserving dynamical systems and related foliations."\hfill September 2017
+\tab\parbox{\deswidth}{Department of Mathematics, Computer Science  and Statistics Seminar, Gustavus Adolphus College.}
+
+"Counting Nimbers."\hfill September 2016
+\tab\parbox{\deswidth}{Department of Mathematics, Computer Science  and Statistics Seminar, Gustavus Adolphus College.}
+
