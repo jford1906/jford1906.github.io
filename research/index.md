@@ -23,7 +23,7 @@ description: "Publications, preprints, and research interests"
 
 "Tilings and Tiling Spaces." October 2018, Department of Mathematics, Computer Science  and Statistics Seminar, Gustavus Adolphus College.}
 
-["Blending Team-based learning and Mastery grading in Calculus I."][\Brandeis TalkFa18] September 2018, Mathematics Department Seminar, Brandeis University
+["Blending Team-based learning and Mastery grading in Calculus I."][/research/Brandeis TalkFa18.pdf] September 2018, Mathematics Department Seminar, Brandeis University
 
 "Getting Started with Team-based learning." (with B. Reimann) \hfill April 2017 \tab\parbox{\deswidth}{Celebration of Creative Inquiry, Gustavus Adolphus College, St. Peter, MN}
 
