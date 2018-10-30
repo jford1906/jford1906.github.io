@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Courses Taught"
+description: "Courses Taught at current and previous institutions"
+---
+
 ## Courses Taught at Gustavus Adolphus College  
 MCS 353 - Continuous Dynamical Systems  
 MCS 332 - Topology  
