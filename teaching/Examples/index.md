@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Examples"
+description: "Sample Course Materials and Teaching Evaluations"
+---
+
 ## Calculus I, taught with TBL and SBG
 
 [Sample Syllabus](121ExampleSyllabus.pdf)  
