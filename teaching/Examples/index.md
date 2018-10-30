@@ -1,4 +1,4 @@
-##Calculus I, taught with TBL and SBG
+## Calculus I, taught with TBL and SBG
 
 [Sample Syllabus](121ExampleSyllabus.pdf)  
 
@@ -12,12 +12,12 @@
 
 [Recent Student Evaluations](121Evals.pdf)
 
-##Linear Algebra, taught with IBL
+## Linear Algebra, taught with IBL
 
-Sample Syllabus
+[Sample Syllabus](221ExampleSyllabus.pdf)
 
-Sample Problem Set
+[Sample Problem Set](221ExampleProblemSet.pdf)
 
-Sample Exam
+[Sample Exam](221ExampleExam.pdf)
 
-Recent Student Evaluations
+[Recent Student Evaluations](221Evals.pdf)
