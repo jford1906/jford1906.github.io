@@ -12,7 +12,7 @@ description: "Publications, preprints, and research interests"
 
 Blending Team-based learning and Mastery grading in Calculus I." August 2018, MAA MathFest Poster Session, Denver, CO
 
-"A volume-preserving dynamical system on $\mathbb{R}^3$ with all trajectories bounded." March 2017, 51st Spring Topology and Dynamical Systems Conference, New Jersey City, NJ
+"A volume-preserving dynamical system on $R^3$ with all trajectories bounded." March 2017, 51st Spring Topology and Dynamical Systems Conference, New Jersey City, NJ
 
 "Visualizing the Wilson Plug" June 2015, 30th Summer Conference on Topology and it's Applications, Galway, Ireland
 
