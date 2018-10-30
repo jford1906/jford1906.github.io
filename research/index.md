@@ -6,11 +6,10 @@ description: "Publications, preprints, and research interests"
 
 ## Papers and Preprints
 
-\\( \ln x=\int_1^x \frac{1}{t}\,dt \\) for all \\(x>0\\)
 
 ## Selected Conference Presentations and Invited Talks
 
-Blending Team-based learning and Mastery grading in Calculus I." August 2018, MAA MathFest Poster Session, Denver, CO
+"Blending Team-based learning and Mastery grading in Calculus I." August 2018, MAA MathFest Poster Session, Denver, CO
 
 "A volume-preserving dynamical system on $R^3$ with all trajectories bounded." March 2017, 51st Spring Topology and Dynamical Systems Conference, New Jersey City, NJ
 
