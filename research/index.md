@@ -2,10 +2,13 @@
 layout: page
 title: "Research"
 description: "Publications, preprints, and research interests"
+permalink: /research/
 ---
 
 ## Research Interests
 I am currently interested in measure-preserving dynamical system, tiling dynamical systems, and the relationship between mathematical self-efficacy and math anxiety.
+
+My full research statement is linked [here](Research Statement.pdf)
 
 ## Papers and Preprints
 ["Blending Team-based Learning and Mastery Grading in the Calculus Classroom."](MTRJ_Submission_Fall_2018.pdf)  
