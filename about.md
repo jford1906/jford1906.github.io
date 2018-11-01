@@ -8,6 +8,8 @@ I'm Jeff Ford, Visiting Assistant Professor of
 [Mathematics][gacmcs] at the
 [Gustavus Adolphus College][gac].
 
+You can find a copy of my CV [here](JFord_CV.pdf)
+
 [gacmcs]: https://www.gustavus.edu/mcs/
 [gac]: https://www.gustavus.edu/
 
