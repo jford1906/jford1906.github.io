@@ -7,6 +7,11 @@ permalink: /teaching/
 
 Inquiry-based learning
 ======================
+[A quick start guide to the Moore Method](http://legacyrlmoore.org/reference/quick_start-3.pdf)
+
+[An Inquiry-Based Learning Approach to Topology](https://divisbyzero.com/2012/12/16/how-i-teach-topology-an-inquiry-based-learning-approach/)
+
+[Academy of Inquiry-Based Learning](http://www.inquirybasedlearning.org/)
 
 Team-based Learning
 ===================
