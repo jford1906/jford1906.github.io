@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "External Resources"
-description: "External reference materials"
+description: "External links for the methods I use in my teaching."
 ---
 
 Inquiry-based learning
