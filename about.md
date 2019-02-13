@@ -21,7 +21,6 @@ for class-related communications. You can also visit
 my office at the following address.
 
 Department of Mathematics, Computer Science, and Statistics
-
 Olin Hall 307
 Gustavus Adolphus College  
 800 W College Ave  
