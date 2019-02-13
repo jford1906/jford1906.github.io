@@ -18,6 +18,8 @@ description: "Sample Course Materials and Teaching Evaluations"
 
 [Recent Student Evaluations](121Evals.pdf)
 
+Full course materials are available in [this](https://github.com/jford1906/TBL-Calculus) repository.
+
 ## Linear Algebra, taught with IBL
 
 [Sample Syllabus](221ExampleSyllabus.pdf)
