@@ -25,3 +25,12 @@ Team-based Learning
 
 Standards-based Grading
 =======================
+[A beginner's guide to Standards-based Grading](https://blogs.ams.org/matheducation/2015/11/20/a-beginners-guide-to-standards-based-grading/)
+
+[The basics of Standards-based Grading](https://www.teacherease.com/standards-based-grading.aspx)
+
+[A literature review of SBG](bit.ly/SBGliterature)
+
+[Mastery-based Testing in Undergraduate Mathematics](https://mbtmath.wordpress.com/)
+
+
