@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Teaching Resources"
+title: "External Resources"
 description: "External reference materials"
-permalink: /teaching/
 ---
 
 Inquiry-based learning
