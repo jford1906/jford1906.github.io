@@ -4,6 +4,8 @@ title: "External Resources"
 description: "External links for the methods I use in my teaching."
 ---
 
+## These links provide information for getting started with the various methods I use in my teaching. If you have a site you think should be added, please email me.
+
 Inquiry-based learning
 ======================
 [A quick start guide to the Moore Method](http://legacyrlmoore.org/reference/quick_start-3.pdf)
