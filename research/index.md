@@ -17,9 +17,6 @@ Under review as of October 2018
 ["A Volume-preserving Dynamical System on $\mathbb{R}^3$ with all Trajectories Bounded"](Smooth_Journal_Article.pdf)  
 Under review as of May 2018
 
-["A Measured $PL$ Foliation of $\mathbb{R}^3$ with all Leaves Contained in Bounded Sets."](PL_with_Kuperberg.pdf) (with K. Kuperberg)  
-Preprint
-
 ["Investigating Algebraic Procedures using Discussion and Writing"](https://www.jstor.org/stable/i40106606) (with J. Harper)  
 Research and Teaching in Developmental Education, Vol. 28 no. 2, (April 2012) 
 
