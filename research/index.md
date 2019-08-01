@@ -11,8 +11,8 @@ I am currently interested in measure-preserving dynamical system, tiling dynamic
 My full research statement is linked [here](Research Statement.pdf)
 
 ## Papers and Preprints
-["Blending Team-based Learning and Mastery Grading in the Calculus Classroom."](MTRJ_Submission_Fall_2018.pdf)  
-Under review as of October 2018
+["Blending Team-based Learning and Mastery Grading in the Calculus Classroom."](https://commons.hostos.cuny.edu/mtrj/wp-content/uploads/sites/30/2019/04/v10n34-Blending-Team-Based-learning.pdf)  
+Mathematics Teaching and Research Journal, Vol. 10, no. 3-4, (Fall/Winter 2018)
 
 ["A Volume-preserving Dynamical System on $\mathbb{R}^3$ with all Trajectories Bounded"](Smooth_Journal_Article.pdf)  
 Under review as of May 2018
