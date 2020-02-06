@@ -1,16 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% Welcome to Overleaf --- just edit your LaTeX on the left,
-% and we'll compile it for you on the right. If you give
-% someone the link to this page, they can edit at the same
-% time. See the help menu above for more info. Enjoy!
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% --------------------------------------------------------------
-% This is all preamble stuff that you don't have to worry about.
-% Head down to where it says "Start here"
-% --------------------------------------------------------------
- 
 \documentclass[12 pt]{article}
 \usepackage{amsmath, amssymb, amsthm}
 
@@ -34,21 +21,24 @@
 %                         Start here
 % --------------------------------------------------------------
  
-\title{Weekly Homework X}%replace X with the appropriate number
+\title{Problem number X}%replace X with the appropriate number
 \author{Jeff Ford\\ %replace with your name
-Discrete Calculus\\
+Your Course\\ %replace with the name of the course
 Collaborators: } %if necessary, include the names of everyone you worked with on this.
  
 \maketitle
  
-\begin{prob} 
-Delete this text and write problem statement here.
-\end{prob}
-\rev{2/19/18} %Add another of these whenever you submit a proof or it's revisions. Do not delete this or any of the grades that show up below it.
-If you want to use the proof environment, it's here. It ends with a nice box to show that the proof is over.
+\begin{thm} 
+Delete this text and write the statement you are proving here. You can duplicate this theorem environment if you need to prove multiple theorems in a single problem.
+\end{thm}
+\rev{2/19/20} %Add another of these whenever you submit a proof or it's revisions. Do not delete this or any of the grades that show up below it.
 
 \begin{proof}
-If you just type stuff, it shows up as you'd expect. If you need special characters, underlining, overlining, italics, bold, Greek letters, of anything else, the commands are all in the Reference Sheet in Moodle.
+Begin your proof here.
+
+If you just type stuff, it shows up as you'd expect. If you need special characters, underlining, overlining, italics, bold, Greek letters, or anything else, the commands are all here \url{https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols}.
+
+More so that memorizing commands, the most important thing you can do is \textbf{PROOFREAD} your document. Before you ever submit a document, hit Recomplile, and read the PDF that is produced. Look for mistakes.
 
 If you want some math in the middle of a line, just put it in like this $x^2$ or $x_2$. Notice though, that if you do $x_21$ it doesn't look right. Instead, try $x_{21}$.
 
@@ -57,9 +47,13 @@ Sometimes we want the math to be bigger, so we use $$x^2$$ to center it and make
 When we put a blank line between two paragraphs, we get an automatic indent, but we don't get a blank line.
 
 If we want some small stuff on a line, and no indent on the next line, just end a line with \\
-then the next line is just below. Or you can put \\
+then the next line is just below. Or you can put two backslashes $(\backslash\backslash)$ \\
 
 at the end of a line, then a blank line, and then you get a new line, and a blank line between.
+
+Maybe you want to make a list? Looks at the difference between 
+$$1,2,...,n,... \mbox{ and } 1,2,\ldots,n,\ldots$$
+Using the right command makes it easier to read.
 
 Suppose you need lots of equations lined up over several lines. Try this:
 
@@ -69,18 +63,30 @@ f(x) &= x+y\\
 &=0
 \end{align*}
 
+If you need larger systems of equations, you can use dots like this example.
+
+\begin{align*}
+    a_{11}x_1 + a_{12}x_2 + \cdots + a_{1n}x_n &= c_1\\
+    a_{21}x_1 + a_{22}x_2 + \cdots + a_{2n}x_n &= c_2\\
+    &\vdots\\
+    a_{m1}x_1 + a_{m2}x_2 + \cdots + a_{mn}x_n &= c_m\\
+\end{align*}
+
 
 Look, here's a matrix. I added a particular command for this to save you some time.
 $$A = \m{1&0&0\\0&1&0\\0&0&1}$$
 
-
-
+You might want dots in the middle of an arbitrary matrix too
+$$\m{a_{11}&a_{12}&\cdots& a_{1n}\\
+a_{12}&a_{22}&\cdots a_{2n}\\
+\vdots&\vdots&\ddots&\vdots\\
+a_{n1}&a_{n2}&\cdots& a_{nn}}$$
 
 The other thing is that you'll often want to talk about sets. The curly bracket is already a reserved symbol, but we can fix that by putting a backslash in front of it. We can also use the mbox command to put regular text inside of math mode.
 $$\R \{x:x \mbox{ is a real number}\}$$
-You might need to make bigger notation around things. Something like these cases
-$$(\frac{n}{k})$$ $$\left(\frac{n}{k}\right)$$
-$$\{\frac{n}{k}\}$$ $$\left\{\frac{n}{k}\right\}$$
+You might need to make bigger notation around things. Compare these cases.
+$$(\frac{n}{k})\mbox{ or }\left(\frac{n}{k}\right)$$
+$$\{\frac{n}{k}\}\mbox{ or }\left\{\frac{n}{k}\right\}$$
 
 Maybe you don't want the fraction bar in there. 
 $${n \choose k}$$
