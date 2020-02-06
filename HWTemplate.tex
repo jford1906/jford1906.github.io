@@ -1,5 +1,6 @@
 \documentclass[12 pt]{article}
 \usepackage{amsmath, amssymb, amsthm}
+\usepackage{hyperref}
 
 \theoremstyle{definition}
 \newtheorem*{thm}{Theorem}
@@ -36,11 +37,11 @@ Delete this text and write the statement you are proving here. You can duplicate
 \begin{proof}
 Begin your proof here.
 
-If you just type stuff, it shows up as you'd expect. If you need special characters, underlining, overlining, italics, bold, Greek letters, or anything else, the commands are all here \url{https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols}.
+If you just type stuff, it shows up as you'd expect. If you need special characters, underlining, overlining, italics, bold, Greek letters, or anything else, the commands are all  \href{https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols}{\textbf{here}}.\\
 
-More so that memorizing commands, the most important thing you can do is \textbf{PROOFREAD} your document. Before you ever submit a document, hit Recomplile, and read the PDF that is produced. Look for mistakes.
+More so that memorizing commands, the most important thing you can do is \textbf{PROOFREAD} your document. Before you ever submit a document, hit Recomplile, and read the PDF that is produced. Look for mistakes.\\
 
-If you want some math in the middle of a line, just put it in like this $x^2$ or $x_2$. Notice though, that if you do $x_21$ it doesn't look right. Instead, try $x_{21}$.
+If you want some math in the middle of a line, just put it in like this $x^2$ or $x_2$. Notice though, that if you do $x_21$ it doesn't look right. Instead, try $x_{21}$.\\
 
 Sometimes we want the math to be bigger, so we use $$x^2$$ to center it and make it larger. Especially useful for things like $\sum_{i=1}^n i$ versus $$\sum_{i=1}^n i.$$
 
