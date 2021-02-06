@@ -8,7 +8,7 @@ permalink: /research/
 ## Research Interests
 I am currently interested in measure-preserving dynamical system, tiling dynamical systems, and the relationship between mathematical self-efficacy and math anxiety.
 
-My full research statement is linked [here](Research Statement.pdf)
+<!--My full research statement is linked [here](Research Statement.pdf)-->
 
 ## Papers and Preprints
 ["Blending Team-based Learning and Mastery Grading in the Calculus Classroom."](https://commons.hostos.cuny.edu/mtrj/wp-content/uploads/sites/30/2019/04/v10n34-Blending-Team-Based-learning.pdf)  
