@@ -34,7 +34,7 @@ Collaborators: } %if necessary, include the names of everyone you worked with on
 \maketitle
  
 \begin{thm} 
-Delete this text and write the statement you are proving here. You can duplicate this theorem environment if you need to prove multiple theorems in a single problem. If you are doing a Problem, Exercise, or need to include a Lemma, use one of the environments below.
+Delete this text and write the statement you are proving here. You can duplicate this theorem environment if you need to prove multiple theorems in a single problem. If you are doing a Problem, Exercise, or need to include a Lemma, use one of the environments below. Only include what you need.
 \end{thm}
 
 \begin{prob}
@@ -58,7 +58,7 @@ If you just type stuff, it shows up as you'd expect. If you need special charact
 
 More so than memorizing commands, the most important thing you can do is \textbf{PROOFREAD} your document. Before you ever submit a document, hit Recomplile, and read the PDF that is produced. Look for mistakes.\\
 
-If you want some math in the middle of a line, just put it in like this $x^2$ or $x_2$. Notice though, that if you do $x_21$ it doesn't look right. Instead, try $x_{21}$.\\
+If you want some math in the middle of a line, just put it in like this $x^2$ or $x_2$. Notice though, that if you do $x_21$ it doesn't look right. Instead, try $x_{21}$. The same thing applies to $x^21$ versus $x^{21}$.\\
 
 Sometimes we want the math to be bigger, so we use $$x^2$$ to center it and make it larger. Especially useful for things like $\sum_{i=1}^n i$ versus $$\sum_{i=1}^n i.$$
 
@@ -72,6 +72,18 @@ at the end of a line, then a blank line, and then you get a new line, and a blan
 Maybe you want to make a list? Looks at the difference between 
 $$1,2,...,n,... \mbox{ and } 1,2,\ldots,n,\ldots$$
 Using the right command makes it easier to read.
+
+If you want a bulleted list,
+\begin{itemize}
+\item Item 1
+\item Item 2
+\end{itemize}
+the itemize environment will do the trick. You can use enumerate
+\begin{enumerate}
+\item
+\item
+\end{enumerate}
+if you want it pre-numbered.
 
 We can write functions in the usual way, $f(x) = 2x +1$, but we sometimes just need to state the domain and range, using something like $$f: \R \rightarrow \R.$$
 
@@ -103,6 +115,8 @@ $$\m{a_{11}&a_{12}&\cdots& a_{1n}\\
 a_{12}&a_{22}&\cdots a_{2n}\\
 \vdots&\vdots&\ddots&\vdots\\
 a_{n1}&a_{n2}&\cdots& a_{nn}}$$
+
+Maybe you're doing linear algebra, and you want to distinguish scalars from vectors. Using the $\vec{v}$ notation can make it clear you are working with a vector.
 
 The other thing is that you'll often want to talk about sets. The curly bracket is already a reserved symbol, but we can fix that by putting a backslash in front of it. We can also use the mbox command to put regular text inside of math mode.
 $$\R \{x:x \mbox{ is a real number}\}$$
