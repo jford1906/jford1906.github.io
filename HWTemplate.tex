@@ -7,8 +7,9 @@
 \theoremstyle{definition}
 \newtheorem*{thm}{Theorem}
 \newtheorem*{prob}{Problem}
-\newtheorem*{exercise}{Exercise}
+\newtheorem*{exploration}{Exploration}
 \newtheorem*{lemma}{Lemma}
+\newtheorem*{app}{Application}
 
 \newcommand{\C}{\mathbb{C}}
 \newcommand{\R}{\mathbb{R}}
@@ -19,30 +20,33 @@
 \newcommand\x[2]{\noindent\textbf{Graded on {#1} - $\times$ - resubmit by {#2}}\\}
 \newcommand\ch[1]{\noindent\textbf{Graded on {#1} - $\checkmark$}\\}
 \newcommand\rev[1]{\noindent\textbf{Last revised on {#1}}\\}
+\newcommand\feedback[1]{\noindent\textbf{Feedback provided on {#1}}\\}
  
 \begin{document}
  
 % --------------------------------------------------------------
-%                         Start here
+%  Start here - No need to change anything about this
 % --------------------------------------------------------------
  
-\title{Problem number X}%replace X with the appropriate number
+\title{A title that reflects what this work is showing}%replace X with the appropriate number
 \author{Jeff Ford\\ %replace with your name
 Your Course\\ %replace with the name of the course
 Collaborators: } %if necessary, include the names of everyone you worked with on this.
  
 \maketitle
-\rev{2/19/20} %This tells me the last time you editted the document. Add another of these whenever you submit a proof or it's revisions. Do not delete this or any of the grades that show up below it. We keep track of how many submissions you need and how quickly I expect revisions.
+\rev{8/19/23} %This tells me the last time you editted the document. Add another of these whenever you submit a proof or it's revisions. Do not delete this or any of the grades that show up below it. We keep track of how many submissions you need and how quickly I expect revisions.
 
-\begin{thm} 
-Delete this text and write the statement you are proving here. You can duplicate this theorem environment if you need to prove multiple theorems in a single problem. 
+\begin{exploration} 
+Delete this text and write the statement of the exploration, and all relevant work.
+\end{exploration}
+
+\begin{application}
+Delete this text and write the statement of the application, and all relevant work.
+\end{application}
+
+\begin{thm}
+Tell us the statement of the theorem you're proving here. The work for the proof should be included below.
 \end{thm}
-
-\begin{lemma}
-If you have a smaller result that needs to be proven before your major result, that is called a Lemma. You can use this environment to set up a lemma. Delete this environment if your proof doesn't need a lemma.
-\end{lemma}
-
-
 
 \begin{proof}
 Begin your proof here. You'll want to separate proof environment for each part of your writeup. So if you are using multiple theorems, or a lemma, you'll have a \begin{verbatim}\begin{proof}\end{verbatim}and \begin{verbatim}\end{proof}\end{verbatim} after each one, with your writing in the middle.
