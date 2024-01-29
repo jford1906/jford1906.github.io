@@ -1,0 +1,72 @@
+
+\documentclass[12pt
+ reprint, nofootinbib,
+]{article}
+\usepackage{setspace}
+\usepackage{framed}
+\usepackage[labelfont=bf]{caption}
+\renewcommand{\figurename}{Example}
+\usepackage{graphicx} % Include figure files
+
+\usepackage{bm} % bold math
+\usepackage{hyperref} 
+\hypersetup{colorlinks= true, urlcolor= blue,linkcolor= blue, citecolor= blue}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{endnotes}
+\usepackage[margin=0.85in]{geometry}
+\usepackage{graphicx}
+\usepackage{amsthm}
+\usepackage{float}
+\graphicspath{ {./images/} }
+\setlength{\parindent}{30pt}
+\setlength{\parskip}{12pt}
+
+
+\theoremstyle{definition}
+\newtheorem*{thm}{Theorem}
+\newtheorem*{prob}{Problem}
+\newtheorem*{exploration}{Exploration}
+\newtheorem*{lemma}{Lemma}
+\newtheorem*{app}{Application}
+
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+
+
+\begin{document}
+\title{Portfolio}
+
+\author{Your name}
+
+\date{} %When you leave this blank it will automatically use today's date when you compile
+
+\maketitle
+\section{Narrative}
+In this section you can write about the grade you deserve and your argument for why. I recommend you keep the narrative as one section, and the evidence as another. You can keep making sections any way you like. I put some examples below.
+
+You can use references to put a link in the narrative that jumps to the evidence, like this Example~\ref{ex:test}, this Figure~\ref{f:test2} or this Figure~\ref{f:withFrame}.
+
+I usually use ex in my references for examples and f if it's a figure.
+
+\section{Evidence}
+\subsection{ELOs}
+\subsubsection{ELO1}
+Here's some sample evidence\label{ex:test}.
+\begin{figure}[h]
+\includegraphics[width=0.8\textwidth]{Selfie23.jpg}
+\caption{You can also put things in a figure environment. That will add a nice label, and you can put a picture in here. Upload a jpg to your Overleaf project and change the name of the file below to get it to appear.}
+\label{f:test2}
+\end{figure}
+\begin{figure}[h]
+\begin{framed}
+You can also make a figure that doesn't have a picture in it, but instead a frame. That works for things like proofs that are typed, rather than pictures of work from class.
+\end{framed}
+\caption{You can put this in to separate the text from what's in the box, or to explain what learning objectives the proof demonstrates.}
+\label{f:withFrame}
+\end{figure}
+
+The labels in this section need to match up with the references in the earlier section.
+\end{document}
