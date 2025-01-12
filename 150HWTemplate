@@ -1,0 +1,128 @@
+\documentclass[12 pt]{article}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{hyperref}
+\usepackage{comment}
+\usepackage{graphicx}
+\usepackage{setspace}
+\doublespacing
+\theoremstyle{definition}
+\newtheorem*{thm}{Theorem}
+
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+
+
+\newcommand\m[1]{\begin{pmatrix}#1\end{pmatrix}}
+\newcommand\x[2]{\noindent\textbf{Graded on {#1} - $\times$ - resubmit by {#2}}\\}
+\newcommand\ch[1]{\noindent\textbf{Graded on {#1} - $\checkmark$}\\}
+\newcommand\rev[1]{\noindent\textbf{Last revised on {#1}}\\}
+\newcommand\feedback[1]{\noindent\textbf{Feedback provided on {#1}}\\}
+ 
+\begin{document}
+ 
+% --------------------------------------------------------------
+%  Start here - No need to change anything about this
+% --------------------------------------------------------------
+ 
+\title{MCS 150 Writing Assignment 1}%replace X with the appropriate number
+\author{Jeff Ford\\ %replace with your name
+\\ %replace with the name of the course
+Collaborators: } %if necessary, include the names of everyone you worked with on this.
+\date{Today!} %Write the date the assignment is due
+ 
+\maketitle
+
+\begin{thm}
+Tell us the statement of the theorem you're proving here. The work for the proof should be included below.
+\end{thm}
+
+\begin{proof}
+Begin your proof here. You'll want to separate proof environment for each part of your writeup. So if you are using multiple theorems, or a lemma, you'll have a \begin{verbatim}\begin{proof}\end{verbatim}and \begin{verbatim}\end{proof}\end{verbatim} after each one, with your writing in the middle.
+
+
+If you just type stuff, it shows up as you'd expect. If you need special characters, underlining, overlining, italics, bold, Greek letters, or anything else, the commands are all  \url{https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols}.\\
+
+More so than memorizing commands, the most important thing you can do is \textbf{PROOFREAD} your document. Before you ever submit a document, hit Recomplile, and read the PDF that is produced. Look for mistakes.\\
+
+If you want some math in the middle of a line, just put it in like this $x^2$ or $x_2$. Notice though, that if you do $x_21$ it doesn't look right. Instead, try $x_{21}$. The same thing applies to $x^21$ versus $x^{21}$.\\
+
+Sometimes we want the math to be bigger, so we use $$x^2$$ to center it and make it larger. Especially useful for things like $\sum_{i=1}^n i$ versus $$\sum_{i=1}^n i.$$
+
+When we put a blank line between two paragraphs, we get an automatic indent, but we don't get a blank line.
+
+If we want some small stuff on a line, and no indent on the next line, just end a line with \\
+then the next line is just below. Or you can put two backslashes $(\backslash\backslash)$ \\
+
+at the end of a line, then a blank line, and then you get a new line, and a blank line between.
+
+Maybe you want to make a list? Looks at the difference between 
+$$1,2,...,n,... \mbox{ and } 1,2,\ldots,n,\ldots$$
+Using the right command makes it easier to read.
+
+If you want a bulleted list,
+\begin{itemize}
+\item Item 1
+\item Item 2
+\end{itemize}
+the itemize environment will do the trick. You can use enumerate
+\begin{enumerate}
+\item
+\item
+\end{enumerate}
+if you want it pre-numbered.
+
+We can write functions in the usual way, $f(x) = 2x +1$, but we sometimes just need to state the domain and range, using something like $$f: \R \rightarrow \R.$$
+
+There's one example an arrow above, but you might need $\leftarrow$, $\Rightarrow$, or $\iff$. These, and many others, are available on the reference page.
+
+Suppose you need lots of equations lined up over several lines. Try this:
+
+\begin{align*}
+f(x) &= x+y\\
+&= x-y\\
+&=0
+\end{align*}
+
+If you need larger systems of equations, you can use dots like this example.
+
+\begin{align*}
+    a_{11}x_1 + a_{12}x_2 + \cdots + a_{1n}x_n &= c_1\\
+    a_{21}x_1 + a_{22}x_2 + \cdots + a_{2n}x_n &= c_2\\
+    &\vdots\\
+    a_{m1}x_1 + a_{m2}x_2 + \cdots + a_{mn}x_n &= c_m\\
+\end{align*}
+
+
+Look, here's a matrix. I added a particular command for this to save you some time.
+$$A = \m{1&0&0\\0&1&0\\0&0&1}$$
+
+You might want dots in the middle of an arbitrary matrix too
+$$\m{a_{11}&a_{12}&\cdots& a_{1n}\\
+a_{12}&a_{22}&\cdots a_{2n}\\
+\vdots&\vdots&\ddots&\vdots\\
+a_{n1}&a_{n2}&\cdots& a_{nn}}$$
+
+Maybe you're doing linear algebra, and you want to distinguish scalars from vectors. Using the $\vec{v}$ notation can make it clear you are working with a vector.
+
+The other thing is that you'll often want to talk about sets. The curly bracket is already a reserved symbol, but we can fix that by putting a backslash in front of it. We can also use the mbox command to put regular text inside of math mode.
+$$\R \{x:x \mbox{ is a real number}\}$$
+You might need to make bigger notation around things. Compare these cases.
+$$(\frac{n}{k})\mbox{ or }\left(\frac{n}{k}\right)$$
+$$\{\frac{n}{k}\}\mbox{ or }\left\{\frac{n}{k}\right\}$$
+
+Maybe you don't want the fraction bar in there. 
+$${n \choose k}$$
+
+Finally, I put in some notation for commonly labelled sets, to save you time.
+$$\N \subseteq \Z \subseteq \R \subseteq \C$$
+
+\end{proof}
+
+% --------------------------------------------------------------
+%     You don't have to mess with anything below this line.
+% --------------------------------------------------------------
+ 
+\end{document}
